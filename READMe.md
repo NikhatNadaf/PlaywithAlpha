@@ -1,1 +1,1 @@
-Thiis is my responsive website where we can count vowels,numbers and perticular letter from given text or paragraph.
+This is my responsive website where we can count vowels,numbers and perticular letter from given text or paragraph.
